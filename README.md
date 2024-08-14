@@ -1,5 +1,5 @@
 # NestFundamental
-Just A Sample Repository with one sample route created to learn about nest 
-It will have implementaton of Guards Interceptors Exception Filter to see how this fit togther and work in nest js
-we have only single route for artist other can we added here
-we have jwt authentication and also role based authentication so only admin can perform rud operations 
+
+This repository is a sample application to learn about Nest.js, with a focus on how Guards, Interceptors, and Exception Filters work together.
+
+The application currently has a single route for artists, but other routes can be added. It also includes JWT authentication and role-based authentication, with only admins able to perform CRUD operations.
